@@ -1,0 +1,12 @@
+name: myApp
+title: myApp
+username:
+account: sands4312
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1412991
+bundleId: 2558738
+url: https://sands4312.shinyapps.io/myApp/
+when: 1572680555.21966
+asMultiple: FALSE
+asStatic: FALSE
